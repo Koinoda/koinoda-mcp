@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.koinoda/carpool",
+  "title": "Koinoda",
+  "description": "Carpools for families and youth sports teams: see who's driving, claim rides, mark kids in or out, and chat.",
+  "websiteUrl": "https://koinoda.com/ai-carpool-assistant",
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://koinoda.com/mcp"
+    }
+  ]
+}

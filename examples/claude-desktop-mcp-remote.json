@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "koinoda": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote@0.1.29", "https://koinoda.com/mcp"]
+    }
+  }
+}

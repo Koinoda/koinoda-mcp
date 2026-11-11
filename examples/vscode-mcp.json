@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "koinoda": {
+      "type": "http",
+      "url": "https://koinoda.com/mcp"
+    }
+  }
+}

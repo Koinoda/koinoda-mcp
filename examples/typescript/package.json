@@ -1,0 +1,15 @@
+{
+  "name": "koinoda-mcp-example",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "tsx list-carpools.ts"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.32.1"
+  },
+  "devDependencies": {
+    "@types/node": "22.10.0",
+    "tsx": "4.20.5"
+  }
+}
