@@ -3,6 +3,10 @@
   "name": "com.koinoda/carpool",
   "title": "Koinoda",
   "description": "Carpools for families and youth sports teams: see who's driving, claim rides, mark kids in or out, and chat.",
+  "repository": {
+    "url": "https://github.com/Koinoda/koinoda-mcp",
+    "source": "github"
+  },
   "websiteUrl": "https://koinoda.com/ai-carpool-assistant",
   "version": "1.0.0",
   "remotes": [
